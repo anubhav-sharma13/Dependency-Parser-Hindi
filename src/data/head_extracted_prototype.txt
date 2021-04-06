@@ -1,0 +1,14 @@
+<Sentence id='x'>
+
+(sentence)
+(sentence_lemma)
+(sentence_pos)
+(heads)
+(heads_lemma)
+(heads_o_pos)
+(heads_pos)
+(heads_name)
+
+('H ' + head + ' ' + head_lemma + ' ' +  head_o_pos + ' ' + head_pos + ' ' + head_name + ' ' + head_relation + ' ' +  head_relative_name)
+
+</Sentence>
